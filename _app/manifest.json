@@ -1,10 +1,11 @@
 {
   ".svelte-kit/build/runtime/internal/start.js": {
-    "file": "start-9a9759a7.js",
+    "file": "start-49113620.js",
     "src": ".svelte-kit/build/runtime/internal/start.js",
     "isEntry": true,
     "imports": [
-      "_vendor-469325aa.js"
+      "_vendor-469325aa.js",
+      "_paths-28a87002.js"
     ],
     "dynamicImports": [
       "src/routes/__layout.svelte",
@@ -17,15 +18,16 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-5650aa41.js",
+    "file": "pages/__layout.svelte-146bbbfe.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-469325aa.js"
+      "_vendor-469325aa.js",
+      "_paths-28a87002.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-d9cf2917.css"
+      "assets/pages/__layout.svelte-23a98a11.css"
     ],
     "assets": [
       "assets/nevis-69d5a15d.ttf"
@@ -91,6 +93,9 @@
   },
   "_vendor-469325aa.js": {
     "file": "chunks/vendor-469325aa.js"
+  },
+  "_paths-28a87002.js": {
+    "file": "chunks/paths-28a87002.js"
   },
   "_tarjeta-56f4e1ec.js": {
     "file": "chunks/tarjeta-56f4e1ec.js",
