@@ -5,42 +5,21 @@
 		<meta name="description" content="Svelte demo app" />
 		<link rel="icon" href="/HackersWeekWeb/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>Rol</title>
-	<link rel="stylesheet" href="/HackersWeekWeb/_app/assets/pages/__layout.svelte-23a98a11.css">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/start-7c1ecc06.js">
+		<meta http-equiv="content-security-policy" content=""><title>Videojuegos</title>
+	<link rel="stylesheet" href="/HackersWeekWeb/_app/assets/pages/__layout.svelte-5c69aa61.css">
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/start-c7b1ddd0.js">
 	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/vendor-469325aa.js">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/paths-28a87002.js">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/pages/__layout.svelte-84dac947.js">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/pages/rol.svelte-6acda077.js">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/tarjeta-56f4e1ec.js">
-			<script type="module">
-				import { start } from "/HackersWeekWeb/_app/start-7c1ecc06.js";
-				start({
-					target: document.body,
-					paths: {"base":"/HackersWeekWeb","assets":"/HackersWeekWeb"},
-					session: {},
-					route: true,
-					spa: false,
-					trailing_slash: "never",
-					hydrate: {
-						status: 200,
-						error: null,
-						nodes: [
-							import("/HackersWeekWeb/_app/pages/__layout.svelte-84dac947.js"),
-						import("/HackersWeekWeb/_app/pages/rol.svelte-6acda077.js")
-						],
-						url: new URL("http://prerender/rol"),
-						params: {}
-					}
-				});
-			</script>
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/paths-4b3c6e7e.js">
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/pages/__layout.svelte-3f66f17b.js">
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/pages/videogames.svelte-fca36485.js">
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/tarjeta-2e05d824.js">
 	</head>
 	<body>
 		<div id="svelte">
 
 
 <nav class="navbar is-black" aria-label="main navigation"><div class="navbar-brand">
-        <a class="navbar-item" rel="external" href="/HackersWeekWeb"><h1>HW&lt;&gt;8</h1></a>
+        <a class="navbar-item" href="/HackersWeekWeb"><h1>HW&lt;&gt;8</h1></a>
         
         <a role="button" class="navbar-burger " aria-label="menu" aria-expanded="false"><span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
@@ -48,12 +27,13 @@
     <div class="navbar-menu "><div class="navbar-start"><a class="navbar-item " href="/HackersWeekWeb/conferences">Conferencias
                 </a><a class="navbar-item " href="/HackersWeekWeb/workshops">Talleres
                 </a><a class="navbar-item " href="/HackersWeekWeb/videogames">Videojuegos
-                </a><a class="navbar-item is-active" href="/HackersWeekWeb/rol">Rol
+                </a><a class="navbar-item " href="/HackersWeekWeb/rol">Rol
                 </a></div></div></nav>
 
-<main><section class="section">
+<main>/HackersWeekWeb/videogames === /HackersWeekWeb ? true
+	<section class="section">
 
-<h3 class="title">Rol</h3>
+<h3 class="title">Videojuegos</h3>
 <div class="box has-background-dark"><div><h1 class="title has-text-primary ">undefined</h1>
         <p class="has-text-light has-text-left">9:30 - Lunes 4 de abril</p>
         <div><span class="has-text-light is-info has-text-justified">bla bla...</span></div>
@@ -62,7 +42,7 @@
 
         <p class="has-text-light has-text-left">Ubicación: Salón de Actos</p></div>
     </div><div class="box has-background-dark"><div><h1 class="title has-text-primary ">undefined</h1>
-        <p class="has-text-light has-text-left">9:30 - Lunes 6 de abril</p>
+        <p class="has-text-light has-text-left">9:30 - Lunes 4 de abril</p>
         <div><span class="has-text-light is-info has-text-justified">bla bla...</span></div>
         <span class="is-text is-small has-text-primary is-underlined is-clickable">Ver más</span>
         
@@ -79,6 +59,26 @@
             <p>Instagram @ceetsii</p></div>
         <div class="column"><b>Sponsors</b></div></div></footer>
 
-</div>
+
+		<script type="module" data-hydrate="9xkqq0">
+		import { start } from "/HackersWeekWeb/_app/start-c7b1ddd0.js";
+		start({
+			target: document.querySelector('[data-hydrate="9xkqq0"]').parentNode,
+			paths: {"base":"/HackersWeekWeb","assets":"/HackersWeekWeb"},
+			session: {},
+			route: true,
+			spa: false,
+			trailing_slash: "never",
+			hydrate: {
+				status: 200,
+				error: null,
+				nodes: [
+					import("/HackersWeekWeb/_app/pages/__layout.svelte-3f66f17b.js"),
+						import("/HackersWeekWeb/_app/pages/videogames.svelte-fca36485.js")
+				],
+				params: {}
+			}
+		});
+	</script></div>
 	</body>
 </html>

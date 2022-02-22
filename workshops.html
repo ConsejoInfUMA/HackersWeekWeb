@@ -5,53 +5,33 @@
 		<meta name="description" content="Svelte demo app" />
 		<link rel="icon" href="/HackersWeekWeb/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>Talleres</title>
-	<link rel="stylesheet" href="/HackersWeekWeb/_app/assets/pages/__layout.svelte-23a98a11.css">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/start-7c1ecc06.js">
+		<meta http-equiv="content-security-policy" content=""><title>Talleres</title>
+	<link rel="stylesheet" href="/HackersWeekWeb/_app/assets/pages/__layout.svelte-5c69aa61.css">
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/start-c7b1ddd0.js">
 	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/vendor-469325aa.js">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/paths-28a87002.js">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/pages/__layout.svelte-84dac947.js">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/pages/workshops.svelte-f4ac241b.js">
-	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/tarjeta-56f4e1ec.js">
-			<script type="module">
-				import { start } from "/HackersWeekWeb/_app/start-7c1ecc06.js";
-				start({
-					target: document.body,
-					paths: {"base":"/HackersWeekWeb","assets":"/HackersWeekWeb"},
-					session: {},
-					route: true,
-					spa: false,
-					trailing_slash: "never",
-					hydrate: {
-						status: 200,
-						error: null,
-						nodes: [
-							import("/HackersWeekWeb/_app/pages/__layout.svelte-84dac947.js"),
-						import("/HackersWeekWeb/_app/pages/workshops.svelte-f4ac241b.js")
-						],
-						url: new URL("http://prerender/workshops"),
-						params: {}
-					}
-				});
-			</script>
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/paths-4b3c6e7e.js">
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/pages/__layout.svelte-3f66f17b.js">
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/pages/workshops.svelte-ca305536.js">
+	<link rel="modulepreload" href="/HackersWeekWeb/_app/chunks/tarjeta-2e05d824.js">
 	</head>
 	<body>
 		<div id="svelte">
 
 
 <nav class="navbar is-black" aria-label="main navigation"><div class="navbar-brand">
-        <a class="navbar-item" rel="external" href="/HackersWeekWeb"><h1>HW&lt;&gt;8</h1></a>
+        <a class="navbar-item" href="/HackersWeekWeb"><h1>HW&lt;&gt;8</h1></a>
         
         <a role="button" class="navbar-burger " aria-label="menu" aria-expanded="false"><span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span></a></div>
     <div class="navbar-menu "><div class="navbar-start"><a class="navbar-item " href="/HackersWeekWeb/conferences">Conferencias
-                </a><a class="navbar-item is-active" href="/HackersWeekWeb/workshops">Talleres
+                </a><a class="navbar-item " href="/HackersWeekWeb/workshops">Talleres
                 </a><a class="navbar-item " href="/HackersWeekWeb/videogames">Videojuegos
                 </a><a class="navbar-item " href="/HackersWeekWeb/rol">Rol
                 </a></div></div></nav>
 
-<main><section class="section">
+<main>/HackersWeekWeb/workshops === /HackersWeekWeb ? true
+	<section class="section">
 
 <h3 class="title">Talleres</h3>
 <div class="box has-background-dark"><div><h1 class="title has-text-primary ">taller NVIDIA</h1>
@@ -72,6 +52,26 @@
             <p>Instagram @ceetsii</p></div>
         <div class="column"><b>Sponsors</b></div></div></footer>
 
-</div>
+
+		<script type="module" data-hydrate="2a8rly">
+		import { start } from "/HackersWeekWeb/_app/start-c7b1ddd0.js";
+		start({
+			target: document.querySelector('[data-hydrate="2a8rly"]').parentNode,
+			paths: {"base":"/HackersWeekWeb","assets":"/HackersWeekWeb"},
+			session: {},
+			route: true,
+			spa: false,
+			trailing_slash: "never",
+			hydrate: {
+				status: 200,
+				error: null,
+				nodes: [
+					import("/HackersWeekWeb/_app/pages/__layout.svelte-3f66f17b.js"),
+						import("/HackersWeekWeb/_app/pages/workshops.svelte-ca305536.js")
+				],
+				params: {}
+			}
+		});
+	</script></div>
 	</body>
 </html>
