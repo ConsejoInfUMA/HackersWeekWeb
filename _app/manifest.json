@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-c7b1ddd0.js",
+    "file": "start-76ae3154.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -11,14 +11,15 @@
       "src/routes/__layout.svelte",
       ".svelte-kit/runtime/components/error.svelte",
       "src/routes/index.svelte",
-      "src/routes/conferences.svelte",
-      "src/routes/videogames.svelte",
-      "src/routes/workshops.svelte",
-      "src/routes/rol.svelte"
+      "src/routes/events/__layout.svelte",
+      "src/routes/events/conferences.svelte",
+      "src/routes/events/videogames.svelte",
+      "src/routes/events/workshops.svelte",
+      "src/routes/events/rol.svelte"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-3f66f17b.js",
+    "file": "pages/__layout.svelte-aec5f62f.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -51,9 +52,18 @@
       "_vendor-469325aa.js"
     ]
   },
-  "src/routes/conferences.svelte": {
-    "file": "pages/conferences.svelte-eef3d6a0.js",
-    "src": "src/routes/conferences.svelte",
+  "src/routes/events/__layout.svelte": {
+    "file": "pages/events/__layout.svelte-f2321dab.js",
+    "src": "src/routes/events/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-469325aa.js"
+    ]
+  },
+  "src/routes/events/conferences.svelte": {
+    "file": "pages/events/conferences.svelte-21caf47a.js",
+    "src": "src/routes/events/conferences.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
@@ -61,9 +71,9 @@
       "_tarjeta-2e05d824.js"
     ]
   },
-  "src/routes/videogames.svelte": {
-    "file": "pages/videogames.svelte-fca36485.js",
-    "src": "src/routes/videogames.svelte",
+  "src/routes/events/videogames.svelte": {
+    "file": "pages/events/videogames.svelte-3b85a10d.js",
+    "src": "src/routes/events/videogames.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
@@ -71,9 +81,9 @@
       "_tarjeta-2e05d824.js"
     ]
   },
-  "src/routes/workshops.svelte": {
-    "file": "pages/workshops.svelte-ca305536.js",
-    "src": "src/routes/workshops.svelte",
+  "src/routes/events/workshops.svelte": {
+    "file": "pages/events/workshops.svelte-184c2dcc.js",
+    "src": "src/routes/events/workshops.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
@@ -81,9 +91,9 @@
       "_tarjeta-2e05d824.js"
     ]
   },
-  "src/routes/rol.svelte": {
-    "file": "pages/rol.svelte-fe6a5c15.js",
-    "src": "src/routes/rol.svelte",
+  "src/routes/events/rol.svelte": {
+    "file": "pages/events/rol.svelte-16714c1b.js",
+    "src": "src/routes/events/rol.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
