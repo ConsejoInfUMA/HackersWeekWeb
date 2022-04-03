@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-f8310045.js",
+    "file": "start-f3c435a6.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -81,7 +81,7 @@
     ]
   },
   "src/routes/events/workshops.svelte": {
-    "file": "pages/events/workshops.svelte-93686c7f.js",
+    "file": "pages/events/workshops.svelte-327a1e03.js",
     "src": "src/routes/events/workshops.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
