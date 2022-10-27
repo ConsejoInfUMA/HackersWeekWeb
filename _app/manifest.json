@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-ffcee2e8.js",
+    "file": "start-2acecd8b.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -13,6 +13,7 @@
       "src/routes/index.svelte",
       "src/routes/events/__layout.svelte",
       "src/routes/events/conferences.svelte",
+      "src/routes/events/hackersdays.svelte",
       "src/routes/events/videogames.svelte",
       "src/routes/events/workshops.svelte",
       "src/routes/info/aboutus.svelte",
@@ -20,7 +21,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-1fb75e8a.js",
+    "file": "pages/__layout.svelte-f0504238.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -63,36 +64,46 @@
     ]
   },
   "src/routes/events/conferences.svelte": {
-    "file": "pages/events/conferences.svelte-c86216d2.js",
+    "file": "pages/events/conferences.svelte-25639168.js",
     "src": "src/routes/events/conferences.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-517658b1.js",
       "_conferences-ec0645a8.js",
-      "_tarjeta-48b3c5a2.js"
+      "_tarjeta-9ad7f552.js"
+    ]
+  },
+  "src/routes/events/hackersdays.svelte": {
+    "file": "pages/events/hackersdays.svelte-cc33edb6.js",
+    "src": "src/routes/events/hackersdays.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-517658b1.js",
+      "_tarjeta-9ad7f552.js"
     ]
   },
   "src/routes/events/videogames.svelte": {
-    "file": "pages/events/videogames.svelte-dabe4e26.js",
+    "file": "pages/events/videogames.svelte-b47ba997.js",
     "src": "src/routes/events/videogames.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-517658b1.js",
       "_videogames-8405f77b.js",
-      "_tarjeta-48b3c5a2.js"
+      "_tarjeta-9ad7f552.js"
     ]
   },
   "src/routes/events/workshops.svelte": {
-    "file": "pages/events/workshops.svelte-4c05aaba.js",
+    "file": "pages/events/workshops.svelte-ff9e37ca.js",
     "src": "src/routes/events/workshops.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-517658b1.js",
       "_workshops-2b57d43b.js",
-      "_tarjeta-48b3c5a2.js"
+      "_tarjeta-9ad7f552.js"
     ]
   },
   "src/routes/info/aboutus.svelte": {
@@ -125,8 +136,8 @@
   "_conferences-ec0645a8.js": {
     "file": "chunks/conferences-ec0645a8.js"
   },
-  "_tarjeta-48b3c5a2.js": {
-    "file": "chunks/tarjeta-48b3c5a2.js",
+  "_tarjeta-9ad7f552.js": {
+    "file": "chunks/tarjeta-9ad7f552.js",
     "imports": [
       "_index-517658b1.js"
     ]
