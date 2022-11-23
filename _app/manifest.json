@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-d7abfc19.js",
+    "file": "start-04ba2301.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -75,7 +75,7 @@
     ]
   },
   "src/routes/events/hackersdays.svelte": {
-    "file": "pages/events/hackersdays.svelte-699adb6d.js",
+    "file": "pages/events/hackersdays.svelte-bc62bdc4.js",
     "src": "src/routes/events/hackersdays.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
