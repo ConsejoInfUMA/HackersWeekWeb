@@ -15,13 +15,13 @@
             <b>Redes Sociales</b>
             <ul>
                 <li>
-                    Twitter <a href="https://twitter.com/ConsejoInfUMA"
-                        >@ConsejoInfUMA</a
+                    Twitter <a href="https://twitter.com/HackersWeek"
+                        >@HackersWeek</a
                     >
                 </li>
                 <li>
-                    Instagram <a href="https://www.instagram.com/consejoinfuma/"
-                        >@consejoinfuma</a
+                    Instagram <a href="https://www.instagram.com/hackersweek/"
+                        >@hackersweek</a
                     >
                 </li>
                 <li>
