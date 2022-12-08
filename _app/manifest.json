@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-d8710528.js",
+    "file": "start-9ccb2069.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -16,12 +16,13 @@
       "src/routes/events/hackersdays.svelte",
       "src/routes/events/videogames.svelte",
       "src/routes/events/workshops.svelte",
+      "src/routes/info/__layout.svelte",
       "src/routes/info/aboutus.svelte",
       "src/routes/info/horario.svelte"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-432e353e.js",
+    "file": "pages/__layout.svelte-793f4c56.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -30,7 +31,7 @@
       "_paths-396f020f.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-641077c9.css"
+      "assets/pages/__layout.svelte-51f1c35f.css"
     ],
     "assets": [
       "assets/nevis-69d5a15d.ttf"
@@ -46,7 +47,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-f9f8f303.js",
+    "file": "pages/index.svelte-a11ed4dc.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -106,8 +107,17 @@
       "_tarjeta-bdc6f848.js"
     ]
   },
+  "src/routes/info/__layout.svelte": {
+    "file": "pages/info/__layout.svelte-4db9c0a8.js",
+    "src": "src/routes/info/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-931a37f3.js"
+    ]
+  },
   "src/routes/info/aboutus.svelte": {
-    "file": "pages/info/aboutus.svelte-46348c9f.js",
+    "file": "pages/info/aboutus.svelte-1fdb6c79.js",
     "src": "src/routes/info/aboutus.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -116,7 +126,7 @@
     ]
   },
   "src/routes/info/horario.svelte": {
-    "file": "pages/info/horario.svelte-ea8df3f4.js",
+    "file": "pages/info/horario.svelte-716f99da.js",
     "src": "src/routes/info/horario.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
