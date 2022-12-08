@@ -26,7 +26,7 @@
                 </li>
                 <li>
                     Twitch <a href="https://www.twitch.tv/consejoinfuma"
-                        >@ConsejoInfIma</a
+                        >@ConsejoInfUma</a
                     >
                 </li>
             </ul>
