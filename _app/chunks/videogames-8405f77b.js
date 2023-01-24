@@ -1,1 +1,0 @@
-var e=[{title:"\u{1F3AE} Gran variedad de juegos pr\xF3ximamente \u{1F3AE}",description:"En ediciones anteriores se han celebrado torneos de CSGO, League of Legends, OSU, Rocket League... Espera a las noticias para poder participar en tu juego favorito."}];export{e as v};
