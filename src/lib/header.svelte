@@ -8,7 +8,7 @@
             name: "¿Qué es la Hackers Week?",
         },
         {
-            href: "#",
+            href: "",
             name: "Más anuncios próximamente",
         }
         /*,
