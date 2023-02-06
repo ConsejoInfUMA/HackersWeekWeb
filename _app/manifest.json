@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-30647cb6.js",
+    "file": "start-32f5b341.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -22,7 +22,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-a3aff1f3.js",
+    "file": "pages/__layout.svelte-5c14e6d7.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -31,7 +31,7 @@
       "_paths-396f020f.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-e82d7a4a.css"
+      "assets/pages/__layout.svelte-ebb0e81e.css"
     ],
     "assets": [
       "assets/nevis-69d5a15d.ttf"
@@ -65,46 +65,46 @@
     ]
   },
   "src/routes/events/conferences.svelte": {
-    "file": "pages/events/conferences.svelte-4ae17173.js",
+    "file": "pages/events/conferences.svelte-befafd85.js",
     "src": "src/routes/events/conferences.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
       "_conferences-0659ea16.js",
-      "_tarjeta-882f7611.js"
+      "_tarjeta-8b32da16.js"
     ]
   },
   "src/routes/events/hackersdays.svelte": {
-    "file": "pages/events/hackersdays.svelte-1a13f458.js",
+    "file": "pages/events/hackersdays.svelte-2043311f.js",
     "src": "src/routes/events/hackersdays.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
-      "_tarjeta-882f7611.js"
+      "_tarjeta-8b32da16.js"
     ]
   },
   "src/routes/events/videogames.svelte": {
-    "file": "pages/events/videogames.svelte-605ead09.js",
+    "file": "pages/events/videogames.svelte-ad77c063.js",
     "src": "src/routes/events/videogames.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
       "_videogames-aa85d4bd.js",
-      "_tarjeta-882f7611.js"
+      "_tarjeta-8b32da16.js"
     ]
   },
   "src/routes/events/workshops.svelte": {
-    "file": "pages/events/workshops.svelte-6e8a61f4.js",
+    "file": "pages/events/workshops.svelte-250725e5.js",
     "src": "src/routes/events/workshops.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
       "_workshops-07d648f2.js",
-      "_tarjeta-882f7611.js"
+      "_tarjeta-8b32da16.js"
     ]
   },
   "src/routes/info/__layout.svelte": {
@@ -126,7 +126,7 @@
     ]
   },
   "src/routes/info/horario.svelte": {
-    "file": "pages/info/horario.svelte-d1509f7f.js",
+    "file": "pages/info/horario.svelte-ef887ab4.js",
     "src": "src/routes/info/horario.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -146,8 +146,8 @@
   "_conferences-0659ea16.js": {
     "file": "chunks/conferences-0659ea16.js"
   },
-  "_tarjeta-882f7611.js": {
-    "file": "chunks/tarjeta-882f7611.js",
+  "_tarjeta-8b32da16.js": {
+    "file": "chunks/tarjeta-8b32da16.js",
     "imports": [
       "_index-f3d17db4.js"
     ]
