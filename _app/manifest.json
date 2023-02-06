@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-775bc880.js",
+    "file": "start-ce189af4.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -65,13 +65,13 @@
     ]
   },
   "src/routes/events/conferences.svelte": {
-    "file": "pages/events/conferences.svelte-7f04d84c.js",
+    "file": "pages/events/conferences.svelte-7240a49b.js",
     "src": "src/routes/events/conferences.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
-      "_conferences-204caafe.js",
+      "_conferences-1ad3c993.js",
       "_tarjeta-8b32da16.js"
     ]
   },
@@ -126,7 +126,7 @@
     ]
   },
   "src/routes/info/horario.svelte": {
-    "file": "pages/info/horario.svelte-8c9701c5.js",
+    "file": "pages/info/horario.svelte-c26acc18.js",
     "src": "src/routes/info/horario.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -134,7 +134,7 @@
       "_index-f3d17db4.js",
       "_workshops-07d648f2.js",
       "_videogames-aa85d4bd.js",
-      "_conferences-204caafe.js"
+      "_conferences-1ad3c993.js"
     ]
   },
   "_index-f3d17db4.js": {
@@ -143,8 +143,8 @@
   "_paths-396f020f.js": {
     "file": "chunks/paths-396f020f.js"
   },
-  "_conferences-204caafe.js": {
-    "file": "chunks/conferences-204caafe.js"
+  "_conferences-1ad3c993.js": {
+    "file": "chunks/conferences-1ad3c993.js"
   },
   "_tarjeta-8b32da16.js": {
     "file": "chunks/tarjeta-8b32da16.js",
