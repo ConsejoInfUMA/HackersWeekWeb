@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-24eb5f7c.js",
+    "file": "start-a430e7bc.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -65,13 +65,13 @@
     ]
   },
   "src/routes/events/conferences.svelte": {
-    "file": "pages/events/conferences.svelte-7f04d84c.js",
+    "file": "pages/events/conferences.svelte-befafd85.js",
     "src": "src/routes/events/conferences.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
-      "_conferences-204caafe.js",
+      "_conferences-0659ea16.js",
       "_tarjeta-8b32da16.js"
     ]
   },
@@ -97,13 +97,13 @@
     ]
   },
   "src/routes/events/workshops.svelte": {
-    "file": "pages/events/workshops.svelte-250725e5.js",
+    "file": "pages/events/workshops.svelte-6e0d96e5.js",
     "src": "src/routes/events/workshops.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
-      "_workshops-07d648f2.js",
+      "_workshops-71199bfb.js",
       "_tarjeta-8b32da16.js"
     ]
   },
@@ -126,15 +126,15 @@
     ]
   },
   "src/routes/info/horario.svelte": {
-    "file": "pages/info/horario.svelte-8c9701c5.js",
+    "file": "pages/info/horario.svelte-e68b0f6a.js",
     "src": "src/routes/info/horario.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
-      "_workshops-07d648f2.js",
+      "_workshops-71199bfb.js",
       "_videogames-aa85d4bd.js",
-      "_conferences-204caafe.js"
+      "_conferences-0659ea16.js"
     ]
   },
   "_index-f3d17db4.js": {
@@ -143,8 +143,8 @@
   "_paths-396f020f.js": {
     "file": "chunks/paths-396f020f.js"
   },
-  "_conferences-204caafe.js": {
-    "file": "chunks/conferences-204caafe.js"
+  "_conferences-0659ea16.js": {
+    "file": "chunks/conferences-0659ea16.js"
   },
   "_tarjeta-8b32da16.js": {
     "file": "chunks/tarjeta-8b32da16.js",
@@ -155,7 +155,7 @@
   "_videogames-aa85d4bd.js": {
     "file": "chunks/videogames-aa85d4bd.js"
   },
-  "_workshops-07d648f2.js": {
-    "file": "chunks/workshops-07d648f2.js"
+  "_workshops-71199bfb.js": {
+    "file": "chunks/workshops-71199bfb.js"
   }
 }
