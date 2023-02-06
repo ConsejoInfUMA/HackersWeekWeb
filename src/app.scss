@@ -7,7 +7,6 @@
 @import "bulma/sass/elements/button";
 @import "bulma/sass/elements/container";
 @import "bulma/sass/elements/title";
-@import "bulma/sass/elements/table";
 
 @import "bulma/sass/components/navbar";
 
@@ -48,13 +47,9 @@ table {
     th {
         background-color: $primary;
         padding: 0.5rem;
-        word-wrap: break-word;
-        max-width: 20rem;
     }
     td {
         padding: 0px;
-        word-wrap: break-word;
-        max-width: 20rem;
     }
 }
 
