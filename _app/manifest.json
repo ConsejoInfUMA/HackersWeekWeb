@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-77abdb16.js",
+    "file": "start-166465b9.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -14,7 +14,7 @@
       "src/routes/events/__layout.svelte",
       "src/routes/events/conferences.svelte",
       "src/routes/events/hackersdays.svelte",
-      "src/routes/events/videogames.svelte",
+      "src/routes/events/activities.svelte",
       "src/routes/events/workshops.svelte",
       "src/routes/info/__layout.svelte",
       "src/routes/info/aboutus.svelte",
@@ -22,7 +22,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-5c14e6d7.js",
+    "file": "pages/__layout.svelte-b99bf978.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -65,13 +65,13 @@
     ]
   },
   "src/routes/events/conferences.svelte": {
-    "file": "pages/events/conferences.svelte-668c2b59.js",
+    "file": "pages/events/conferences.svelte-98107395.js",
     "src": "src/routes/events/conferences.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
-      "_conferences-fc7e1a9c.js",
+      "_conferences-7d9d8eea.js",
       "_tarjeta-d567e37e.js"
     ]
   },
@@ -85,9 +85,9 @@
       "_tarjeta-d567e37e.js"
     ]
   },
-  "src/routes/events/videogames.svelte": {
-    "file": "pages/events/videogames.svelte-2372883f.js",
-    "src": "src/routes/events/videogames.svelte",
+  "src/routes/events/activities.svelte": {
+    "file": "pages/events/activities.svelte-2ab65140.js",
+    "src": "src/routes/events/activities.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
@@ -126,7 +126,7 @@
     ]
   },
   "src/routes/info/horario.svelte": {
-    "file": "pages/info/horario.svelte-85044339.js",
+    "file": "pages/info/horario.svelte-e78ad794.js",
     "src": "src/routes/info/horario.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -134,7 +134,7 @@
       "_index-f3d17db4.js",
       "_workshops-71199bfb.js",
       "_videogames-aa85d4bd.js",
-      "_conferences-fc7e1a9c.js"
+      "_conferences-7d9d8eea.js"
     ]
   },
   "_index-f3d17db4.js": {
@@ -143,8 +143,8 @@
   "_paths-396f020f.js": {
     "file": "chunks/paths-396f020f.js"
   },
-  "_conferences-fc7e1a9c.js": {
-    "file": "chunks/conferences-fc7e1a9c.js"
+  "_conferences-7d9d8eea.js": {
+    "file": "chunks/conferences-7d9d8eea.js"
   },
   "_tarjeta-d567e37e.js": {
     "file": "chunks/tarjeta-d567e37e.js",
