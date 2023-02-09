@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-e8909543.js",
+    "file": "start-def56d9f.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -97,13 +97,13 @@
     ]
   },
   "src/routes/events/workshops.svelte": {
-    "file": "pages/events/workshops.svelte-3e5afd97.js",
+    "file": "pages/events/workshops.svelte-5743938e.js",
     "src": "src/routes/events/workshops.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
-      "_workshops-e4a9da37.js",
+      "_workshops-aaaeebc1.js",
       "_tarjeta-f41500a4.js"
     ]
   },
@@ -126,13 +126,13 @@
     ]
   },
   "src/routes/info/horario.svelte": {
-    "file": "pages/info/horario.svelte-50259973.js",
+    "file": "pages/info/horario.svelte-2c588fa5.js",
     "src": "src/routes/info/horario.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-f3d17db4.js",
-      "_workshops-e4a9da37.js",
+      "_workshops-aaaeebc1.js",
       "_videogames-aa85d4bd.js",
       "_conferences-5f1830a5.js"
     ]
@@ -155,7 +155,7 @@
   "_videogames-aa85d4bd.js": {
     "file": "chunks/videogames-aa85d4bd.js"
   },
-  "_workshops-e4a9da37.js": {
-    "file": "chunks/workshops-e4a9da37.js"
+  "_workshops-aaaeebc1.js": {
+    "file": "chunks/workshops-aaaeebc1.js"
   }
 }
