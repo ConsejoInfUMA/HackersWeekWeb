@@ -2,7 +2,7 @@
 title: "Consigue tu entradas para los eventos del segundo Hackers Day del curso 23/24"
 date: 2023-11-13T22:22:11+02:00
 draft: false
-description: Anuncio de las ponencias y eventos para el segundo Hackers Day del curso 2023/24"
+description: "Anuncio de las ponencias y eventos para el segundo Hackers Day del curso 2023/24"
 tags: ["Hackers Day 21-11-23", "announcement"]
 ---
 
