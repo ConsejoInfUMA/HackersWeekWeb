@@ -51,6 +51,11 @@
 #  weight = 22
 
 [[main]]
+  name = "Patrocinadores"
+  pageRef = "sponsors"
+  weight = 23
+
+[[main]]
   name = "Histórico"
   pageRef = "events"
   weight = 30
