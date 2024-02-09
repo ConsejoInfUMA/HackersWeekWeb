@@ -33,7 +33,7 @@ Podemos utilizar los servicios de autobús de la EMT hasta el centro de la ciuda
 ## Dossier
 Para conocer más detalles sobre el evento y cómo participar, te invitamos a consultar nuestro dossier a continuación:
 
-{{< button href="https://drive.google.com/file/d/1f6kN6qjgKxThCh9vRxwkZ8VLWDETjmHQ/preview" target="_self" >}}
+{{< button href="https://drive.google.com/file/d/1kUxMrXXndLcdZkNeUk1zv5vRINLeXjBJ/view" target="_self" >}}
 Dossier
 {{< /button >}}
 
