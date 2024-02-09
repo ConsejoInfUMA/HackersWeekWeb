@@ -2,7 +2,7 @@
 title: "Anunciadas las ponencias del primer Hackers Day del curso 23/24"
 date: 2023-10-10T22:22:11+02:00
 draft: false
-description: Anuncio de las ponencias para el primer Hackers Day del curso 2023/24"
+description: "Anuncio de las ponencias para el primer Hackers Day del curso 2023/24"
 tags: ["Hackers Day 16-10-23", "announcement"]
 ---
 
