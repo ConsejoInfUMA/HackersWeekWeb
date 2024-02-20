@@ -20,16 +20,16 @@
   pageRef = "announcements"
   weight = 5
 
+[[main]]
+  name = "Hackers Week X"
+  pageRef = "events/2023-24/hackers-week-x"
+  weight = 9
+
 # [[main]]
  # name = "Eventos"
  # pageRef = "events/2023-24/hackers-days-16-10"
   # weight = 10
 
-#[[main]]
-#  name = "Ponencias"
-#  pageRef = "events/2023-24/hackers-week/presentation"
-#  parent  = "Eventos"
-#  weight = 11
 
 #[[main]]
 #  name = "Talleres"
