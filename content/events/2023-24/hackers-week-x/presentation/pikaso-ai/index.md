@@ -16,3 +16,8 @@ Durante esta presentación, desvelaremos los secretos detrás de las tecnología
 **Ponente:** Iván de Prado Alonso, Freepik
 
 **Fecha:** Lunes 4 de marzo de 2024
+
+{{< button href="https://www.eventbrite.es/e/entradas-conferencia-freepik-pikaso-ia-generativa-de-imagenes-made-in-malaga-828921184577" target="_self" >}}
+Consigue tus entradas aquí
+{{< /button >}}
+

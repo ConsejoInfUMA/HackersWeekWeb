@@ -1,6 +1,6 @@
 ---
 title: "WSL: Windows Subsystem for Linux. ¿Del odio al amor y del amor al odio?"
-date: 2024-02-21T17:59:10+02:00
+date: 2024-02-21T14:59:10+02:00
 draft: false
 description: "Ponencia sobre los modelos generativos de difusión y los primeros pasos en las inteligencias artificiales generativas"
 tags: ["presentation", "wsl", "cybersecurity"]
@@ -16,3 +16,7 @@ Una recopilación de datos interesantes/anécdotas/información relevante más a
 **Ponente:** Sergio de los Santos, Telefónica Tech
 
 **Fecha:** Miércoles 5 de marzo de 2024
+
+{{< button href="https://www.eventbrite.es/e/entradas-conferencia-wsl-del-odio-al-amor-y-del-amor-al-odio-846478990447" target="_self" >}}
+Consigue tus entradas aquí
+{{< /button >}}
