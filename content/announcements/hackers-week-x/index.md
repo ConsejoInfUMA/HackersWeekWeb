@@ -8,5 +8,17 @@ tags: ["Hackers Week X", "announcement"]
 
 A lo largo de esta semana os iremos anunciando todos los eventos de la próxima **Hackers Week (del 4 al 8 de marzo)**. Podréis disfrutar de ponencias, talleres, actividades y torneos de la semana que se irán publicando en redes sociales tanto por <a href="https://www.instagram.com/hackersweek/">Instagram</a> como <a href="https://twitter.com/HackersWeek">X (Twitter)</a> y en nuestra página web. Manténte atento para hacerte con las entradas y sitos a tiempo.
 
+# Ponencias
+{{< article link="/events/2023-24/hackers-week-x/presentation/pikaso-ai/" >}}
+
+<br/>
+{{< article link="/events/2023-24/hackers-week-x/presentation/mobile-apps/" >}}
+
+<br/>
+{{< article link="/events/2023-24/hackers-week-x/presentation/wsl-del-amor-al-odio/" >}}
+
+<br/>
+
+# Actividades
 {{< article link="/events/2023-24/hackers-week-x/activities/tournament/" >}}
 
