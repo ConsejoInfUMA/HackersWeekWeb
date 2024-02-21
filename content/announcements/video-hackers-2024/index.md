@@ -1,5 +1,5 @@
 ---
-title: "Empieza la cuenta atrás para la décima edición de la Hackers Week, ¿te apuntas? "
+title: "Empieza la cuenta atrás para la décima edición de la Hackers Week, ¿te apuntas?"
 date: 2024-02-08T12:22:11+02:00
 draft: false
 description: "Vídeo promocional de la décima edición de la Hackers Week"
