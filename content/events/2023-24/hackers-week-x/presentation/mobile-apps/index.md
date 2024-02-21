@@ -14,3 +14,7 @@ Sumérgete en el emocionante proceso de creación de una mobile app desde cero h
 **Ponente:** Itziar Samaniego, Ebury
 
 **Fecha:** Martes 5 de marzo de 2024
+
+{{< button href="https://www.eventbrite.es/e/entradas-conferencia-desafia-la-inspiracion-disena-tu-propia-mobile-app-846480314407" target="_self" >}}
+Consigue tus entradas aquí
+{{< /button >}}
