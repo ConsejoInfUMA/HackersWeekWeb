@@ -1,6 +1,7 @@
 ---
 title: "Comienzan los anuncios de la próxima edición de la Hackers Week"
 date: 2024-02-21T08:22:11+02:00
+lastmod: 2024-02-22T14:22:11+02:00
 draft: false
 description: "Recopilación de los anuncios de la décima edición de la Hackers Week"
 tags: ["Hackers Week X", "announcement"]
@@ -16,6 +17,17 @@ A lo largo de esta semana os iremos anunciando todos los eventos de la próxima 
 
 <br/>
 {{< article link="/events/2023-24/hackers-week-x/presentation/wsl-del-amor-al-odio/" >}}
+
+<br/>
+{{< article link="/events/2023-24/hackers-week-x/presentation/semantic-kernel/" >}}
+
+<br/>
+
+# Talleres
+{{< article link="/events/2023-24/hackers-week-x/workshop/godot-101/" >}}
+
+<br/>
+{{< article link="/events/2023-24/hackers-week-x/workshop/secure-boot/" >}}
 
 <br/>
 
