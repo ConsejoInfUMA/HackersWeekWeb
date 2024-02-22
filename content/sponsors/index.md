@@ -1,6 +1,6 @@
 ---
-title: "Nuestros patrocinadores"
-date: 2023-08-02T12:41:01+02:00
+title: "Conoce a los patrocinadores de la Hackers Week"
+date: 2024-02-22T12:41:01+02:00
 draft: false
 description: "Información de los patrocinadores de la Hackers Week"
 tags: ["info", "Hackers Week X", "sponsors"]
