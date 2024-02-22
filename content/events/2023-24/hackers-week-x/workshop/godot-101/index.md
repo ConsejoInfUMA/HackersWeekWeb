@@ -3,7 +3,7 @@ title: "GODOT 101 + ROCKET"
 date: 2024-02-22T14:59:10+02:00
 draft: false
 description: "Taller de inicio en el desarrollo en GODOT con el videojuego de Asteroids"
-tags: ["presentation", "godot", "videogames"]
+tags: ["workshop", "godot", "videogames"]
 categories: ["Hackers Week X"]
 ---
 
@@ -13,7 +13,7 @@ El taller está preparado y enfocado para que cualquier persona pueda explorar y
 
 **Laboratorio:** 2.1.8
 
-**Ponente:** Jesús Ariza
+**Conductor:** Jesús Ariza
 
 **Fecha:** Lunes 4 de marzo de 2024
 
