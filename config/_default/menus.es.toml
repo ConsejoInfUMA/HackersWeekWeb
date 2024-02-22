@@ -13,7 +13,7 @@
 [[main]]
   name = "Información"
   pageRef = "about"
-  weight = 1
+  weight = 2
 
 [[main]]
   name = "Anuncios"
@@ -23,7 +23,7 @@
 [[main]]
   name = "Hackers Week X"
   pageRef = "events/2023-24/hackers-week-x"
-  weight = 9
+  weight = 1
 
 # [[main]]
  # name = "Eventos"
