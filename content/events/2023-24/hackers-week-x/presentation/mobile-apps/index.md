@@ -18,3 +18,8 @@ Sumérgete en el emocionante proceso de creación de una mobile app desde cero h
 {{< button href="https://www.eventbrite.es/e/entradas-conferencia-desafia-la-inspiracion-disena-tu-propia-mobile-app-846480314407" target="_self" >}}
 Consigue tus entradas aquí
 {{< /button >}}
+
+{{< lead >}}
+Ebury es uno de los patrocinadores de esta edición de la Hackers Week, para más información puedes visitar nuestra página de sponsors:
+{{</ lead >}}
+{{< article link="/sponsors/" >}}
