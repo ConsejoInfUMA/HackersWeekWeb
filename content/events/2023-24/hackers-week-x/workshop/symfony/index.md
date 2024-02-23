@@ -11,7 +11,7 @@ El taller nos acerca de un caso real sobre un proyecto de microservicios para ba
 
 **Laboratorio:** 3.1.5
 
-**Ponente:** Thomas Thöller y Manuel Illan, PublicPlan
+**Ponente:** Thomas Töller y Manuel Illán Millán, PublicPlan
 
 **Fecha:** Martes 5 de marzo de 2024
 
