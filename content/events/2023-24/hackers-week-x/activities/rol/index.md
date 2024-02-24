@@ -2,7 +2,7 @@
 title: "Hackers Week X - Sesiones de rol"
 date: 2024-02-23T17:59:10+02:00
 draft: false
-description: "Listado de torneos celebrados durante la Hackers Week X"
+description: "Sesiones de rol celebradas durante la Hackers Week X"
 tags: ["rol"]
 ---
 
