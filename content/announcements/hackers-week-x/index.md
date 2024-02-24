@@ -48,6 +48,14 @@ A lo largo de esta semana os iremos anunciando todos los eventos de la próxima 
 
 <br/>
 
+{{< article link="/events/2023-24/hackers-week-x/activities/lan-party/" >}}
+
+<br/>
+
+{{< article link="/events/2023-24/hackers-week-x/activities/rol/" >}}
+
+<br/>
+
 # Eventbrite
 {{< button href="https://www.eventbrite.com/cc/hackers-week-x-2836439" target="_self" >}}
 Colección de eventos de Eventbrite
