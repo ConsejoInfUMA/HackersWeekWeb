@@ -20,3 +20,8 @@ League of Legends
 Valorant
 {{</button >}}
 </div>
+
+{{< lead >}}
+Krom es uno de los patrocinadores de esta edición de la Hackers Week, para más información puedes visitar nuestra página de sponsors:
+{{</ lead >}}
+{{< article link="/sponsors/" >}}
