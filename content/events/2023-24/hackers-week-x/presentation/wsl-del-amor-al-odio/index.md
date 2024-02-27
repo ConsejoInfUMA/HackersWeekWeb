@@ -15,7 +15,7 @@ Una recopilación de datos interesantes/anécdotas/información relevante más a
 
 **Ponente:** Sergio de los Santos, Telefónica Tech
 
-**Fecha:** Miércoles 5 de marzo de 2024
+**Fecha:** Miércoles 6 de marzo de 2024
 
 {{< button href="https://www.eventbrite.es/e/entradas-conferencia-wsl-del-odio-al-amor-y-del-amor-al-odio-846478990447" target="_self" >}}
 Consigue tus entradas aquí
