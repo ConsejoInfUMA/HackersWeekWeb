@@ -15,6 +15,6 @@ En esta sesión descubriremos algunas de las capacidades de la tecnología Power
 
 **Fecha:** Miércoles 6 de marzo de 2024
 
-{{< button href="https://www.eventbrite.es/e/entradas-taller-godot-101-rocket-846506472647" target="_self" >}}
+{{< button href="https://www.eventbrite.es/e/entradas-taller-introduccion-a-power-apps-con-ayuda-de-la-ia-848809761847" target="_self" >}}
 Consigue tus entradas aquí
 {{< /button >}}
