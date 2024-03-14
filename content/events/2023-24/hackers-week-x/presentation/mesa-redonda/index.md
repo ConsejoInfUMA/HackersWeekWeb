@@ -7,7 +7,7 @@ tags: ["presentation", "round table", "videogames", "videogames industry"]
 categories: ["Hackers Week X"]
 ---
 
-Para cerrar la semana nos reuniremos en una mesa redonda con cinco grandes personalidades de la industria del videojuego en España.
+Para cerrar la semana, **el viernes 8 de marzo** nos reuniremos en una mesa redonda con cinco grandes personalidades de la industria del videojuego en España.
 
 **Lugar:** Salón de Actos
 
