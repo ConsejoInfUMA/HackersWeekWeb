@@ -20,11 +20,6 @@
   pageRef = "announcements"
   weight = 5
 
-[[main]]
-  name = "Hackers Week X"
-  pageRef = "events/2023-24/hackers-week-x"
-  weight = 1
-
 # [[main]]
  # name = "Eventos"
  # pageRef = "events/2023-24/hackers-days-16-10"
@@ -54,6 +49,11 @@
   name = "Patrocinadores"
   pageRef = "sponsors"
   weight = 23
+
+[[main]]
+  name = "Prensa"
+  pageRef = "press-kit"
+  weight = 25
 
 [[main]]
   name = "Histórico"
