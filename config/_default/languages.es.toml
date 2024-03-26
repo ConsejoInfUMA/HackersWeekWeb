@@ -16,7 +16,7 @@ title = "Hackers Week"
 [author]
    name = "Hackers Week"
    image = "img/author-logo.png"
-   headline = "Próxima edición del 4 al 8 de marzo 2024"
+   headline = "Nos vemos el curso que viene"
    bio = "A little bit about you"
    links = [
      { x-twitter = "https://twitter.com/HackersWeek" },
