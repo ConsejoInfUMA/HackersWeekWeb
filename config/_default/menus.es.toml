@@ -51,6 +51,11 @@
   weight = 23
 
 [[main]]
+  name = "Prensa"
+  pageRef = "press-kit"
+  weight = 25
+
+[[main]]
   name = "Histórico"
   pageRef = "events"
   weight = 30
