@@ -13,7 +13,7 @@ title = "Hackers Week"
   secondaryLogo = "img/dark-logo.png"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
    name = "Hackers Week"
    image = "img/author-logo.png"
    headline = "Próxima edición del 10 al 14 de marzo de 2025"
