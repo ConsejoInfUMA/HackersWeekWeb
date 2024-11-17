@@ -1,12 +1,11 @@
 ---
-title: "Call for Papers 2023/24"
-date: 2023-07-31T23:59:10+02:00
-draft: false
-date: 2023-08-01T23:59:10+02:00
+title: "Call for Papers 2024/25"
+draft: true
+date: 2024-11-17T17:03:00+02:00
 description: "Call for Papers para ponentes y conductores de talleres para los eventos de la Hackers Week"
 tags: ["c4p", "announcement"]
 ---
-Hemos vuelto, y desde la organización de Hackers Week nos complace anunciar el Call for Papers para su próxima edición. Invitamos a profesionales, investigadores y estudiantes a presentarse para la décima edición de la Hackers Week y los Hackers Days que se realizarán durante el curso.
+Un año más el Consejo de Estudiantes de la Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga se ha puesto en marcha para organizar "Hackers Week".
 
 ## Temáticas de Interés
 Agradecemos contribuciones originales que aborden diversos temas relacionados con la informática y sus aplicaciones, incluyendo:
@@ -28,14 +27,14 @@ La duración de la actividad tendrá una duración máxima a **1 hora y 45 minut
 ## Envío de Propuestas
 Si estás interesado en participar como ponente o conductor/a de una actividad, puedes rellenar el formulario a continuación.
 
-{{< button href="https://forms.gle/u6xn5bCKj2orv14bA" target="_self" >}}
+{{< button href="https://forms.gle/hUnVxVrxCisxDgXEA" target="_self" >}}
 Formulario Propuestas
 {{< /button >}}
 
 ## Colaboración / Sponsors
 Para colaboraciones y/o patrocinios:
 
-{{< button href="https://forms.gle/aYbCeYcNLSTVmMgf9" target="_self" >}}
+{{< button href="https://forms.gle/KaiAYjerc7kvrP6D8" target="_self" >}}
 Formulario Sponsors
 {{< /button >}}
 
