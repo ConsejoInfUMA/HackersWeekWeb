@@ -9,13 +9,17 @@ defaultContentLanguage = "es"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = false
-paginate = 10
 summaryLength = 0
 
 buildDrafts = false
 buildFuture = false
 
+enableEmoji = true
+
 # googleAnalytics = "G-XXXXXXXXX"
+
+[pagination]
+  pagerSize = 10
 
 [imaging]
   anchor = 'Center'
@@ -23,8 +27,6 @@ buildFuture = false
 [taxonomies]
   tag = "tags"
   category = "categories"
-#  series = "series"
-#  author = "authors"
 
 [sitemap]
   changefreq = 'daily'
@@ -38,28 +40,20 @@ buildFuture = false
   threshold = 0
   toLower = false
 
-    [[related.indices]]
-        name = "tags"
-        weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 100
 
-    [[related.indices]]
-        name = "categories"
-        weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 100
 
-    [[related.indices]]
-        name = "series"
-        weight = 50
+  [[related.indices]]
+    name = "date"
+    weight = 10
 
-    [[related.indices]]
-        name = "authors"
-        weight = 20
-
-    [[related.indices]]
-        name = "date"
-        weight = 10
-
-    [[related.indices]]
-      applyFilter = false
-      name = 'fragmentrefs'
-      type = 'fragments'
-      weight = 10
+  [[related.indices]]
+    applyFilter = false
+    name = 'fragmentrefs'
+    type = 'fragments'
+    weight = 10

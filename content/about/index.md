@@ -17,13 +17,13 @@ Además de las actividades anteriormente mencionadas, se ponen a disposición es
 Los Hackers Days son eventos mensuales realizados por el Consejo de Estudiantes de Informática con la colaboración de la Escuela Técnica Superior de Ingeniería Informática donde se reserva espacio y tiempo a ponentes y organizadores de taller para distintas actividades con una duración máxima de 1h y 45 minutos.
 ## ¿Cómo llegar?
 {{< figure
-    src="mapa.webp"
-    alt="Mapa desde arriba de la Escuela Técnica Superior de Ingeniería Informática"
-    href="https://youtu.be/UxNUhgNQrYQ"
-    >}}
+  src="/img/about/mapa.webp"
+  alt="Mapa desde arriba de la Escuela Técnica Superior de Ingeniería Informática"
+  href="https://youtu.be/UxNUhgNQrYQ"
+  >}}
 ### En autobús
 Se pueden tomar las líneas de bus 8, 11 y 25 con destino Bulevard Louis Pasteur; la 11 se puede tomar desde la Alameda principal.
-### En metro    
+### En metro
 Las líneas 1 y 2 del Metro de Málaga van desde el Campus universitario de Teatinos al Palacio de los Deportes, uniéndose en el intercambiador de El Perchel-María Zambrano.
 La línea 1, dirección “Andalucía Tech” con parada “Clínico”, se encuentra a menos de 1 minuto de la Escuela.
 ### Desde la estación de Renfe “María Zambrano”
