@@ -32,10 +32,36 @@ Formulario Propuestas
 {{< /button >}}
 
 ## Colaboración / Sponsors
-Para colaboraciones y/o patrocinios:
-
 {{< button href="https://forms.gle/KaiAYjerc7kvrP6D8" target="_self" >}}
 Formulario Sponsors
 {{< /button >}}
+
+Se ofertan los siguientes planes de sponsors:
+### 🟡 Plan Oro - 500€
+Este plan está diseñado para patrocinadores que buscan visibilidad a un nivel básico pero efectivo, aprovechando la difusión online y el branding en el evento.
+
+Beneficios del Plan Oro:
+- Logo en la página web de Hackers Week: Su marca aparecerá en una sección dedicada a los patrocinadores del evento, proporcionando visibilidad ante todos los visitantes de la web.
+- Merchandising en el welcome pack: La empresa puede incluir productos o folletos promocionales en el paquete de bienvenida que se entrega a los asistentes. Esta opción permite que su marca tenga una presencia tangible y continua durante el evento.
+
+### ⚪️ Plan Platino - 1.000€
+El Plan Platino incluye todos los beneficios del Plan Oro y añade un nivel de visibilidad superior, aumentando la exposición de la marca en material promocional y en el evento.
+
+Beneficios del Plan Platino:
+- Todos los beneficios del Plan Oro.
+- Logo en cartelería del evento: La marca será parte de los posters, banners y otros elementos visuales distribuidos en la universidad y en las redes sociales, amplificando su alcance.
+- Logo en camisetas oficiales del evento: Los asistentes y voluntarios vestirán camisetas que llevarán su logo, dándole una visibilidad destacada y constante durante los cinco días de evento.
+
+### 🔵 Plan Diamante - 1.500€
+Este es el plan de mayor exclusividad, diseñado para empresas que buscan una exposición prioritaria y una integración más profunda en las actividades del evento.
+
+Beneficios del Plan Diamante:
+- Todos los beneficios del Plan Platino.
+- Preferencia horaria en talleres y charlas: Los patrocinadores de Plan Diamante tienen la opción de escoger horarios clave para sus presentaciones, asegurando una mayor visibilidad y permitiendo que el público objetivo asista a las actividades patrocinadas.
+
+
+### ℹ️ Aviso
+- Los precios mostrados anteriormente no tienen el IVA incluido
+- El tamaño de los logos queda sujeto de la siguiente manera, Plan Oro logo pequeño, Plan Platino logo mediano, Plan Diamante logo grande
 
 ¡Esperamos contar con vuestra participación en la Hackers Week!
