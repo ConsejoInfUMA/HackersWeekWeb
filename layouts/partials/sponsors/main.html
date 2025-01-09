@@ -1,0 +1,13 @@
+<h2 class="mt-8 text-2xl font-extrabold mb-4">{{ i18n "sponsors.name" }}</h2>
+<p>{{ i18n "sponsors.thanks" }}</p>
+
+{{ if and (isset .Site.Params.Sponsors "spam") (eq .Site.Params.Sponsors.Spam true) }}
+  <p class="mt-4 mb-4">{{ i18n "sponsors.spam" }}</p>
+  <a href="{{ .Site.Params.Sponsors.SpamPath }}" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700" role="button">
+    C4P
+  </a>
+{{ end }}
+
+{{ range .Site.Params.Sponsors.Ranks }}
+{{ partial "sponsors/list.html" . }}
+{{ end }}

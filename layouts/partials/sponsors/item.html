@@ -1,0 +1,6 @@
+{{ $disableImageOptimization := .Page.Site.Params.disableImageOptimization | default false }}
+{{ $image := resources.Get .context.image }}
+
+<a href="{{ .context.url }}">
+  <img width="{{ .size }}" height="{{ .size }}" class="nozoom" src="{{ $image.RelPermalink }}" />
+</a>

@@ -23,8 +23,16 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-
-      - name: Build
+      - name: Setup NodeJS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+      - name: Install NPM dependencies
+        run: npm --prefix ./themes/blowfish install
+      - name: Build custom Tailwind
+        run: npm run build
+      - name: Build website
         run: hugo --minify
         env:
           # For maximum backward compatibility with Hugo modules

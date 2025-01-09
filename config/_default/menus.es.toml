@@ -35,11 +35,6 @@
 #  weight = 22
 
 [[main]]
-  name = "Patrocinadores"
-  pageRef = "sponsors"
-  weight = 23
-
-[[main]]
   name = "Prensa"
   pageRef = "press-kit"
   weight = 25

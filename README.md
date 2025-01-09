@@ -1,6 +1,21 @@
 # Hackers Week
 ## Dependencias
 La página de la Hackers Week está basada en **Hugo** con el tema de **Blowfish**.
+
+Para poder compilar los estilos personalizados de Tailwind necesitas **NodeJS** y **NPM**
+
+### Tailwind
+Ya que la página web actual tiene modificaciones personalizadas, es necesario ejecutar los siguientes comandos primero.
+
+```bash
+cd ./themes/blowfish
+npm install
+cd ../../
+npm run build
+```
+
+Esto generará un archivo `main.css` en la carpeta `assets/css/compiled`
+
 ## Desarrollo
 ### Iniciar en desarrollo
 ```

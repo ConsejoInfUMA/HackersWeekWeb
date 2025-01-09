@@ -1,0 +1,12 @@
+{{ $imageSize := .imageSize }}
+<h3 class="mt-8 text-{{ .textSize }} font-extrabold mb-10">
+  <span>{{ .emoji }}</span>
+  <span>{{ i18n "sponsors.rank" }}</span>
+  <span>{{ .name }}</span>
+</h3>
+
+<section class="grid gap-10 grid-flow-col auto-cols-max justify-center">
+  {{ range .members }}
+  {{ partial "sponsors/item.html" (dict "context" . "size" $imageSize) }}
+  {{ end }}
+</section>

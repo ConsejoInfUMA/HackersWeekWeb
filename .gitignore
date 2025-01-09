@@ -23,6 +23,7 @@ future-content/*
 #blowfish generated files
 resources/_gen
 public
+assets/css/compiled
 
 # OS generated files
 .DS_Store

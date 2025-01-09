@@ -52,6 +52,44 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
+[sponsors]
+  enabled = true
+  spam = true
+  spamPath = "/announcements/call-for-papers-24-25/#colaboración--sponsors"
+  [[sponsors.ranks]]
+    name = "Diamante"
+    emoji = "🔵"
+    textSize = "xl"
+    imageSize = "148px"
+    [[sponsors.ranks.members]]
+      url = "https://hackersweek.es"
+      image = "img/author-logo.png"
+    [[sponsors.ranks.members]]
+      url = "https://hackersweek.es"
+      image = "img/author-logo.png"
+    [[sponsors.ranks.members]]
+      url = "https://hackersweek.es"
+      image = "img/author-logo.png"
+  [[sponsors.ranks]]
+    name = "Platino"
+    emoji = "⚪️"
+    textSize = "lg"
+    imageSize = "128px"
+    [[sponsors.ranks.members]]
+      url = "https://hackersweek.es"
+      image = "img/author-logo.png"
+    [[sponsors.ranks.members]]
+      url = "https://hackersweek.es"
+      image = "img/author-logo.png"
+  [[sponsors.ranks]]
+    name = "Oro"
+    emoji = "🟡"
+    textSize = "base"
+    imageSize = "108px"
+    [[sponsors.ranks.members]]
+      url = "https://hackersweek.es"
+      image = "img/author-logo.png"
+
 [article]
   showDate = true
   showViews = false
