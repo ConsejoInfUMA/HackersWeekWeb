@@ -5,8 +5,8 @@
   <span>{{ .name }}</span>
 </h3>
 
-<section class="grid gap-10 grid-flow-col auto-cols-max justify-center">
+<div class="flex flex-wrap justify-center items-center gap-10">
   {{ range .members }}
   {{ partial "sponsors/item.html" (dict "context" . "size" $imageSize) }}
   {{ end }}
-</section>
+</div>
