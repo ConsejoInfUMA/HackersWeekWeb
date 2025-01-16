@@ -7,6 +7,8 @@ tags: ["c4p", "announcement"]
 ---
 Un año más el Consejo de Estudiantes de la Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga se ha puesto en marcha para organizar "Hackers Week".
 
+El evento se celebrará del 10 al 14 de marzo de 2025.
+
 ## Temáticas de Interés
 Agradecemos contribuciones originales que aborden diversos temas relacionados con la informática y sus aplicaciones, incluyendo:
 
