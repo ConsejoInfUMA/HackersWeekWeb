@@ -3,15 +3,15 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 description: ""
-tags: ["presentation"]
+tags: ["workshop"]
 categories: ["Hackers Week __"]
 ---
 
-*Detalles ponencia*
+*Detalles taller*
 
-**Lugar:** ...
+**Laboratorio:** X.Y.Z
 
-**Ponente:** ...
+**Conductor:** ...
 
 **Fecha:** ...
 
