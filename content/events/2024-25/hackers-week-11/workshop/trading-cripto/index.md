@@ -11,7 +11,7 @@ En este taller práctico descubrirás cómo automatizar el trading en el mundo c
 
 **Laboratorio:** 3.1.12
 
-**Conductor:** Francisco López
+**Conductor:** Victoria Caparrós Cabezas
 
 **Fecha:** 11 de Marzo de 2025, 17:30 - 19:15
 
