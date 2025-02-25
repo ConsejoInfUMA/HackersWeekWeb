@@ -1,5 +1,5 @@
 ---
-title: "Hackers Wall Street"
+title: "Hackers en Wall Street: Tecnología de Trading y Ciberseguridad en Cripto y Mercados Financieros"
 date: 2025-02-24T20:01:18+01:00
 draft: false
 description: "En esta charla se explicarán los conceptos básicos del trading en finanzas y se mostrará cómo la tecnología se emplea para desarrollar estrategias que operan de forma autónoma."
