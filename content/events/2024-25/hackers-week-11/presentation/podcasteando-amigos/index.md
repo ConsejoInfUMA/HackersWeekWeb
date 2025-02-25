@@ -9,7 +9,7 @@ categories: ["Hackers Week 11"]
 
 Un episodio de 'Podcasteando con amigos' donde cinco ingenieros informáticos con dilatada experiencia compartirán anécdotas, lecciones y desafíos vividos a lo largo de sus carreras. Desde el desarrollo más clásico hasta las últimas novedades, pasando por errores y momentos de éxito. Una charla entre colegas sobre lo que realmente significa trabajar en el sector de la Informática. Si buscas consejos prácticos, historias reales y una dosis de entretenimiento sobre la vida de un ingeniero informático, no te lo pierdas. En el último tramo del episodio sortearemos cinco tazas vintage de nuestro podcast. Tenemos un micrófono de público para que desde tu asiento puedas participar opinando o preguntando.
 
-**Lugar:** ...
+**Lugar:** Salón de Actos
 
 **Miembros del podcast:**
 - José Luis Arranz
