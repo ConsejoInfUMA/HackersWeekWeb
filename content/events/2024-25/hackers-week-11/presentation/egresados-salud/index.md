@@ -1,8 +1,8 @@
 ---
-title: "Egresados Salud"
+title: "Egresados de Ingeniería de la Salud"
 date: 2025-02-24T20:18:24+01:00
 draft: false
-description: "??"
+description: "¿Qué opciones hay después de terminar Ingeniería de la Salud? En esta charla, egresados con trayectorias muy diversas compartirán sus experiencias"
 tags: ["presentation"]
 categories: ["Hackers Week 11"]
 ---
