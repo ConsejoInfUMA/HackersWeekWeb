@@ -8,6 +8,7 @@ categories: ["Hackers Week 11"]
 ---
 
 ¿Qué opciones hay después de terminar Ingeniería de la Salud? En esta charla, egresados con trayectorias muy diversas compartirán sus experiencias:
+
 Naiara Chiclana García - De analista de datos a investigadora en IA generativa: cómo la bioinformática y la estadística han abierto puertas en empresas tecnológicas y la influencia de la IA en el mundo laboral.
 
 Paloma Domínguez Sánchez - Reencontrando el rumbo profesional: el proceso de desencanto con la carrera, la reinvención a través de un máster en Human Computer Interaction and Design y las oportunidades como Product Manager, además de opciones para ganar dinero viajando.
