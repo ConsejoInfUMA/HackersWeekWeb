@@ -1,4 +1,6 @@
-{{ $imageSize := .imageSize }}
+{{ $imageWidth := .imageWidth }}
+{{ $imageHeight := .imageHeight }}
+
 <h3 class="mt-8 text-{{ .textSize }} font-extrabold mb-10">
   <span>{{ .emoji }}</span>
   <span>{{ i18n "sponsors.rank" }}</span>
@@ -7,6 +9,6 @@
 
 <div class="flex flex-wrap justify-center items-center gap-10">
   {{ range .members }}
-  {{ partial "sponsors/item.html" (dict "context" . "size" $imageSize) }}
+  {{ partial "sponsors/item.html" (dict "context" . "width" $imageWidth "height" $imageHeight) }}
   {{ end }}
 </div>

@@ -54,41 +54,17 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [sponsors]
   enabled = true
-  spam = true
+  spam = false
   spamPath = "/announcements/call-for-papers-24-25/#colaboración--sponsors"
-  [[sponsors.ranks]]
-    name = "Diamante"
-    emoji = "🔵"
-    textSize = "xl"
-    imageSize = "148px"
-    [[sponsors.ranks.members]]
-      url = "https://hackersweek.es"
-      image = "img/author-logo.png"
-    [[sponsors.ranks.members]]
-      url = "https://hackersweek.es"
-      image = "img/author-logo.png"
-    [[sponsors.ranks.members]]
-      url = "https://hackersweek.es"
-      image = "img/author-logo.png"
-  [[sponsors.ranks]]
-    name = "Platino"
-    emoji = "⚪️"
-    textSize = "lg"
-    imageSize = "128px"
-    [[sponsors.ranks.members]]
-      url = "https://hackersweek.es"
-      image = "img/author-logo.png"
-    [[sponsors.ranks.members]]
-      url = "https://hackersweek.es"
-      image = "img/author-logo.png"
   [[sponsors.ranks]]
     name = "Oro"
     emoji = "🟡"
     textSize = "base"
-    imageSize = "108px"
+    imageWidth = "324px"
+    imageHeight = "216px"
     [[sponsors.ranks.members]]
-      url = "https://hackersweek.es"
-      image = "img/author-logo.png"
+      url = "https://es.nttdata.com"
+      image = "/img/sponsors/ntt.png"
 
 [article]
   showDate = true
