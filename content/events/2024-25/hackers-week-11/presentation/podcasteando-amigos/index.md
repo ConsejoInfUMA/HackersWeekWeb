@@ -17,8 +17,8 @@ Un episodio de 'Podcasteando con amigos' donde cinco ingenieros informáticos co
 - Ángel Caparrós
 
 **Invitados especiales:**
-- ??
-- ??
+- Miguel Rodríguez
+- Jose Gorchs
 
 **Fecha:** 14 de marzo de 2025, 10:45 - 12:45
 

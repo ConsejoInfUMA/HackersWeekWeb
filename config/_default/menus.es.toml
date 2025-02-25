@@ -62,10 +62,10 @@
   parent = "Histórico"
   weight = 32
 
-#[[main]]
-#  name = "Horario"
-#  pageRef = "schedule"
-#  weight = 40
+[[main]]
+  name = "Hackers Week 11"
+  pageRef = "announcements/hackers-week-11/"
+  weight = 40
 
 #[[subnavigation]]
 #  name = "Información"
