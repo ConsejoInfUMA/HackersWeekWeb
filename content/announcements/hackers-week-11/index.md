@@ -2,7 +2,7 @@
 title: "Comienzan los anuncios de la Hackers Week 11"
 date: 2025-02-24T19:29:00+02:00
 lastmod: 2025-02-24T19:29:00+02:00
-draft: true
+draft: false
 description: "Recopilación de los anuncios de la onceava edición de la Hackers Week"
 tags: ["Hackers Week 11", "announcement"]
 ---
