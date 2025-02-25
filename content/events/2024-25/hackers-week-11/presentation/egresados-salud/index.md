@@ -19,7 +19,7 @@ Juan Luis Onieva Zafra - El camino del doctorado en Bioinformática: reflexiones
 
 Cada ponente ofrecerá su visión personal sobre el impacto de sus estudios, los desafíos encontrados y las oportunidades que han sabido aprovechar en su trayectoria profesional.
 
-**Lugar:** 3.05.
+**Lugar:** 3.0.5
 
 **Ponentes:**
 - Naiara Chiclana García
