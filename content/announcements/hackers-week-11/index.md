@@ -61,6 +61,8 @@ A lo largo de esta semana os iremos anunciando todos los eventos de la **Hackers
 
 {{< article link="/events/2024-25/hackers-week-11/workshop/computacion-cuantica/" >}}
 
+<br/>
+
 # Actividades
 {{< article link="/events/2024-25/hackers-week-11/activities/rol/" >}}
 
