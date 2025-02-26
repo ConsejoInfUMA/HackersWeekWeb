@@ -13,7 +13,7 @@ El día jueves 13 y viernes 14 de marzo de 16:30 a 20:00 se celebrarán en la **
 Hazte con tu plaza aquí
 {{< /button >}}
 
-Podéis encontrar las sinopsis de las partidas están dentro del propio formulario, aunque a continuación contáis con más detalles de cada sesión:
+Podéis encontrar las sinopsis de las partidas dentro del propio formulario, aunque a continuación contáis con más detalles de cada sesión:
 ## Jueves 13
 - Los muertos no necesitan plata - Cyberpunk RED: http://u.uma.es/f2q/
 - Órdenes Desconocidas - Mutant Year Zero: Mechatron: http://u.uma.es/f2r/
