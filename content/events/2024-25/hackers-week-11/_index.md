@@ -6,4 +6,4 @@ description: "Listado de los eventos celebrados en la undécima edición de la H
 tags: ["hackers week"]
 ---
 
-Todos los eventos de la Hackers Week X, celebrada entre el 10 y 14 de marzo de 2025.
+Todos los eventos de la Hackers Week 11, celebrada entre el 10 y 14 de marzo de 2025.
