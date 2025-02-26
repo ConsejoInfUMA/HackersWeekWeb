@@ -1,7 +1,7 @@
 ---
 title: "Computación Cuántica: un nuevo reto en Ciberseguridad"
 date: 2025-02-24T19:47:35+01:00
-draft: true
+draft: false
 description: "La Computación Cuántica es un nuevo paradigma, capaz de abordar problemas no resolubles con computadores clásicos - incluyendo problemas de criptografía, cambiando potencialmente el tablero de juego en ciberseguridad."
 tags: ["workshop", "cuantica"]
 categories: ["Hackers Week 11"]
