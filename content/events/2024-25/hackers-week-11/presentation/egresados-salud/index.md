@@ -1,5 +1,5 @@
 ---
-title: "Egresados de Ingeniería de la Salud"
+title: "Ingeniería de la Salud: Del aula a la industria"
 date: 2025-02-24T20:18:24+01:00
 draft: false
 description: "¿Qué opciones hay después de terminar Ingeniería de la Salud? En esta charla, egresados con trayectorias muy diversas compartirán sus experiencias"
@@ -29,6 +29,6 @@ Cada ponente ofrecerá su visión personal sobre el impacto de sus estudios, los
 
 **Fecha:** 13 de marzo de 2025, 17:30 - 19:15
 
-{{< button href="https://www.eventbrite.com/e/egresados-salud-osoco-tickets-1258505928109" target="_self" >}}
+{{< button href="https://www.eventbrite.com/e/ingenieria-de-la-salud-del-aula-a-la-industria-tickets-1258505928109/" target="_self" >}}
 Consigue tus entradas aquí
 {{< /button >}}
