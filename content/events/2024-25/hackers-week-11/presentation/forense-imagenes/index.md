@@ -3,7 +3,7 @@ title: "Informática forense aplicada a imágenes"
 date: 2025-02-24T20:13:51+01:00
 draft: false
 description: "Se presentarán casos prácticos de informática forense aplicada a imágenes."
-tags: ["presentation"]
+tags: ["presentation", "forensia"]
 categories: ["Hackers Week 11"]
 ---
 

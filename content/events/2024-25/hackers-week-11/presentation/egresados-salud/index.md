@@ -3,7 +3,7 @@ title: "Ingeniería de la Salud: Del aula a la industria"
 date: 2025-02-24T20:18:24+01:00
 draft: false
 description: "¿Qué opciones hay después de terminar Ingeniería de la Salud? En esta charla, egresados con trayectorias muy diversas compartirán sus experiencias"
-tags: ["presentation"]
+tags: ["presentation", "salud"]
 categories: ["Hackers Week 11"]
 ---
 

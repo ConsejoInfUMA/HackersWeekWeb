@@ -3,7 +3,7 @@ title: "IA y LLMs: Un Atajo Eficiente entre los Datos y las Decisiones"
 date: 2025-02-24T20:10:08+01:00
 draft: false
 description: "Descubre cómo las herramientas basadas en Inteligencia Artificial (IA) y, en particular, en los Modelos de Lenguaje a Gran Escala (LLM) están revolucionando el análisis de datos."
-tags: ["presentation"]
+tags: ["presentation", "ia", "llm", "big-data"]
 categories: ["Hackers Week 11"]
 ---
 

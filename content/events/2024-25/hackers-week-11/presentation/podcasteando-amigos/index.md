@@ -3,7 +3,7 @@ title: "Podcasteando con Amigos"
 date: 2025-02-24T20:19:49+01:00
 draft: false
 description: "Un episodio de 'Podcasteando con amigos' donde cinco ingenieros informáticos con dilatada experiencia compartirán anécdotas, lecciones y desafíos vividos a lo largo de sus carreras."
-tags: ["presentation"]
+tags: ["presentation", "podcast", "anecdotas"]
 categories: ["Hackers Week 11"]
 ---
 

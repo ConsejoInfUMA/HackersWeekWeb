@@ -2,8 +2,8 @@
 title: "Robótica Móvil y Percepción Artificial en el Ámbito de la Salud"
 date: 2025-02-24T20:16:14+01:00
 draft: false
-description: ""
-tags: ["presentation"]
+description: "Exploramos el papel de la robótica móvil y la percepción artificial en el ámbito de la salud, analizando su potencial para transformar la asistencia médica y la monitorización de pacientes"
+tags: ["presentation", "salud"]
 categories: ["Hackers Week 11"]
 ---
 
