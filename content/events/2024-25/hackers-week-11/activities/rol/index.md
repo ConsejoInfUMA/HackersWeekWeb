@@ -7,7 +7,7 @@ categories: ["Hackers Week 11"]
 tags: ["rol"]
 ---
 
-El día jueves 13 y viernes 14 de marzo de 16:30 a 20:00 se celebrarán en la **cuarta planta** del edificio biblioteca, salas de reuniones A y B las sesiones de rol.
+El día jueves 13 y viernes 14 de marzo de 16:30 a 20:30 se celebrarán en la **cuarta planta** del edificio biblioteca, salas de reuniones A y B las sesiones de rol.
 
 {{< button href="http://u.uma.es/f2p" target="_self" >}}
 Hazte con tu plaza aquí
