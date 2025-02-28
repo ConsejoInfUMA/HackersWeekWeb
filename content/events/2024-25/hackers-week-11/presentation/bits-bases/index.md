@@ -2,12 +2,14 @@
 title: "Bits y bases: de la secuencia genética al dato"
 date: 2025-02-24T20:05:58+01:00
 draft: false
-description: "??"
+description: "Metagenómica, su aplicabilidad a la compresión de ciertas enfermedades o a los estudios de biodiversidad."
 tags: ["presentation"]
 categories: ["Hackers Week 11"]
 ---
 
-??
+Hablaremos sobre la metagenómica, su aplicabilidad a la compresión de ciertas enfermedades o a los estudios de biodiversidad.
+
+Al mismo tiempo, introducimos los algoritmos bioinformáticos y el desarrollo que están sufriendo los mismos.
 
 **Lugar:** Salón de Actos
 
