@@ -12,12 +12,14 @@ Tendrán lugar el durante el fin de semana del 8 al 9 de marzo y puedes apuntart
 El equipo ganador podrá llevarse **un pack Krom Kabala** para **cada jugador** patrocinados por <a href="https://www.kromgaming.com/">Krom Gaming</a>.
 
 Apúntate a continuación desde los siguientes formularios donde podrás consultar las bases de cada torneo.
-<div class="flex flex-col">
+
 {{< button href="https://forms.gle/GbETbvwgnw84RNHa6" target="_self">}}
 League of Legends
 {{< /button >}}
-<br/>
+
+<br />
+<br />
+
 {{< button href="https://forms.gle/xtZo312EPUA8GCxe9" target="_self" >}}
 Valorant
-{{</button >}}
-</div>
+{{< /button >}}
