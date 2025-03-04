@@ -60,11 +60,16 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
     name = "Oro"
     emoji = "🟡"
     textSize = "base"
-    imageWidth = "324px"
-    imageHeight = "216px"
     [[sponsors.ranks.members]]
       url = "https://es.nttdata.com"
       image = "/img/sponsors/ntt.png"
+      imageWidth = "324px"
+      imageHeight = "216px"
+    [[sponsors.ranks.members]]
+      url = "https://ozonegaming.com"
+      image = "/img/sponsors/ozone.png"
+      imageWidth = "216px"
+      imageHeight = "216px"
 
 [article]
   showDate = true
