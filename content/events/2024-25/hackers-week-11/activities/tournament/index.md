@@ -9,7 +9,7 @@ tags: ["games", "tournaments", "valorant", "league of legends"]
 
 ¡Ya están abiertas las inscripciones para los torneos de Valorant y League of Legends de la Hackers Week X!
 Tendrán lugar el durante el fin de semana del 8 al 9 de marzo y puedes apuntarte con tu equipo hasta el 7 de marzo.
-El equipo ganador podrá llevarse **un pack Krom Kabala** para **cada jugador** patrocinados por <a href="https://www.kromgaming.com/">Krom Gaming</a>.
+El equipo ganador podrá llevarse un pack de teclado + ratón patrocinados por <a href="https://ozonegaming.com/">Ozone Gaming</a>.
 
 Apúntate a continuación desde los siguientes formularios donde podrás consultar las bases de cada torneo.
 
