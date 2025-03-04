@@ -68,6 +68,10 @@ A lo largo de esta semana os iremos anunciando todos los eventos de la **Hackers
 
 <br />
 
+{{< article link="/events/2024-25/hackers-week-11/activities/tournament/" >}}
+
+<br />
+
 # Eventbrite
 {{< button href="https://www.eventbrite.com/cc/hackers-week-11-4090923" target="_self" >}}
 Colección de eventos de Eventbrite
