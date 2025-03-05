@@ -31,3 +31,13 @@
   --color-secondary-800: 0, 0, 0;
   --color-secondary-900: 0, 0, 0;
 }
+
+th.v-align, td.v-align {
+  text-align: center;
+  vertical-align: middle;
+}
+
+th.h-align, td.h-align {
+  text-align: center;
+  vertical-align: middle;
+}

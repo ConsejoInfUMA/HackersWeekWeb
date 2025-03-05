@@ -7,9 +7,54 @@ description: "Recopilación de los anuncios de la onceava edición de la Hackers
 tags: ["Hackers Week 11", "announcement"]
 ---
 
-A lo largo de esta semana os iremos anunciando todos los eventos de la **Hackers Week 11 (del 10 al 14 de marzo)**. Podréis disfrutar de ponencias, talleres, actividades y torneos de la semana que se irán publicando en redes sociales tanto por <a href="https://www.instagram.com/hackersweek/">Instagram</a> como <a href="https://twitter.com/HackersWeek">X (Twitter)</a> y en nuestra página web. Manténte atento para hacerte con las entradas y sitos a tiempo.
+A continuación tienes disponibles todos los eventos de la **Hackers Week 11 (del 10 al 14 de marzo)**.
 
-# Ponencias
+Podréis disfrutar de ponencias, talleres, actividades y torneos de la semana que se irán publicando en redes sociales tanto por [Instagram](https://www.instagram.com/hackersweek/) como [X (Twitter)](https://twitter.com/HackersWeek) y en nuestra página web.
+
+¡Házte con tus entradas antes que se agoten!
+
+# Horario
+<table><thead>
+  <tr>
+    <th class="v-align">Horario</th>
+    <th class="v-align">Lunes</th>
+    <th class="v-align">Martes</th>
+    <th class="v-align">Miércoles</th>
+    <th class="v-align">Jueves</th>
+    <th class="v-align">Viernes</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="v-align"><b>10:45 - 11:30</b></td>
+    <td class="h-align" rowspan="2">Quijotes contra Gigantes, los nuevos retos de la Ciberseguridad</td>
+    <td class="h-align" rowspan="2">Hackers en Wall Street: Tecnología de Trading y Ciberseguridad en Cripto y Mercados Financieros</td>
+    <td>Bits y bases: de la secuencia genética al dato</td>
+    <td>Informática forense aplicada a imágenes</td>
+    <td class="h-align" rowspan="2">Podcasteando con Amigos</td>
+  </tr>
+  <tr>
+    <td class="v-align"><b>11:45 - 12:30</b></td>
+    <td>IA y LLMs: Un Atajo Eficiente entre los Datos y las Decisiones</td>
+    <td>Robótica Móvil y Percepción Artificial en el Ámbito de la Salud</td>
+  </tr>
+  <tr>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="v-align" rowspan="2"><b>17:30 - 19:15</b></td>
+    <td class="h-align" rowspan="2">Ciberinteligencia 101; de tener un VPS a detectar una ciberoperación rusa</td>
+    <td class="h-align" rowspan="2">Trading Cripto: Desde las APIs hasta el Código</td>
+    <td>Descubre el Poder de la IA Generativa con Microsoft Azure</td>
+    <td class="h-align" rowspan="2">Computación Cuántica: un nuevo reto en Ciberseguridad</td>
+    <td class="h-align" rowspan="2">-</td>
+  </tr>
+  <tr>
+    <td>Privacidad y Anonimato para Dummies</td>
+  </tr>
+</tbody></table>
+
+# Listado de eventos
+## Ponencias
 {{< article link="/events/2024-25/hackers-week-11/presentation/quijotes-contra-gigantes/" >}}
 
 <br/>
@@ -40,9 +85,7 @@ A lo largo de esta semana os iremos anunciando todos los eventos de la **Hackers
 
 {{< article link="/events/2024-25/hackers-week-11/presentation/podcasteando-amigos/" >}}
 
-<br/>
-
-# Talleres
+## Talleres
 {{< article link="/events/2024-25/hackers-week-11/workshop/ciberinteligencia-101/" >}}
 
 <br/>
@@ -61,9 +104,7 @@ A lo largo de esta semana os iremos anunciando todos los eventos de la **Hackers
 
 {{< article link="/events/2024-25/hackers-week-11/workshop/computacion-cuantica/" >}}
 
-<br/>
-
-# Actividades
+## Actividades
 {{< article link="/events/2024-25/hackers-week-11/activities/rol/" >}}
 
 <br />
@@ -73,8 +114,6 @@ A lo largo de esta semana os iremos anunciando todos los eventos de la **Hackers
 <br />
 
 {{< article link="/events/2024-25/hackers-week-11/activities/lan-party/" >}}
-
-<br />
 
 # Eventbrite
 {{< button href="https://www.eventbrite.com/cc/hackers-week-11-4090923" target="_self" >}}
