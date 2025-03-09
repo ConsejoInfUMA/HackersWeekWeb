@@ -9,7 +9,7 @@ categories: ["Hackers Week 11"]
 
 En este taller práctico descubrirás cómo automatizar el trading en el mundo cripto de manera progresiva. Primero, aprenderás a capturar datos de mercado en tiempo real mediante scripts ejecutados desde la línea de comandos, para luego utilizar código en Python que te permita extraer y analizar esta información de forma avanzada. A continuación, desarrollarás código que interactúe con APIs para enviar órdenes de compra y venta, y finalmente integrarás todas estas etapas en estrategias de trading que unen la captación de datos y la ejecución de operaciones.
 
-**Laboratorio:** 3.1.12
+**Laboratorio:** 2.1.9a y 2.1.9b
 
 **Conductor:** Victoria Caparrós Cabezas
 
