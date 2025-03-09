@@ -45,11 +45,12 @@ Podréis disfrutar de ponencias, talleres, actividades y torneos de la semana qu
     <td class="h-align" rowspan="2">Ciberinteligencia 101; de tener un VPS a detectar una ciberoperación rusa</td>
     <td class="h-align" rowspan="2">Trading Cripto: Desde las APIs hasta el Código</td>
     <td>Descubre el Poder de la IA Generativa con Microsoft Azure</td>
-    <td class="h-align" rowspan="2">Computación Cuántica: un nuevo reto en Ciberseguridad</td>
+    <td class>Computación Cuántica: un nuevo reto en Ciberseguridad</td>
     <td class="h-align" rowspan="2">-</td>
   </tr>
   <tr>
     <td>Privacidad y Anonimato para Dummies</td>
+    <td>Ingeniería de la Salud: Del aula a la industria</td>
   </tr>
 </tbody></table>
 
