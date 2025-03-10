@@ -17,7 +17,7 @@ No se requieren conocimientos previos de Computación Cuántica o de Python para
 
 **Conductor:** Diego Moreda
 
-**Fecha:** 13 de Marzo de 2025, 15:30 - 19:15
+**Fecha:** 13 de Marzo de 2025, 17:30 - 19:15
 
 {{< button href="https://www.eventbrite.com/e/computacion-cuantica-un-nuevo-reto-en-ciberseguridad-tickets-1258437322909" target="_self" >}}
 Consigue tus entradas aquí
