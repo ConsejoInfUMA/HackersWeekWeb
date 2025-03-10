@@ -9,6 +9,8 @@ categories: ["Hackers Week 11"]
 
 Convierte un simple VPS en una poderosa herramienta de inteligencia de amenazas. Aprende a desplegar honeypots, analizar ataques reales y detectar patrones de ciberoperaciones avanzadas. Un taller práctico para quienes quieren investigar ciberataques y defender su infraestructura.
 
+Presentación disponible [aquí](https://docs.google.com/presentation/d/14BBb2FMNiiUpIWRPRlt5DNCCybRvtsH5MHHHsv0vwN8/edit?usp=drivesdk)
+
 **Laboratorio:** 3.1.11
 
 **Conductor:** Rafael Ruiz Villén
