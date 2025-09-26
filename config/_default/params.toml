@@ -53,7 +53,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layoutBackgroundBlur = false # only used when layout equals background
 
 [sponsors]
-  enabled = true
+  enabled = false
   spam = false
   spamPath = "/announcements/call-for-papers-24-25/#colaboración--sponsors"
   [[sponsors.ranks]]

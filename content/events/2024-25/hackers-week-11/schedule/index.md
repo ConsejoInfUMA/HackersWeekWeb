@@ -1,10 +1,10 @@
 ---
-title: "Hackers Week 11 - Ponencias, talleres y actividades"
+title: "Hackers Week 11 - Horario"
 date: 2025-02-24T19:29:00+02:00
 lastmod: 2025-02-24T19:29:00+02:00
 draft: false
 description: "Recopilación de los anuncios de la onceava edición de la Hackers Week"
-tags: ["Hackers Week 11", "announcement"]
+tags: ["Hackers Week 11"]
 ---
 
 A continuación tienes disponibles todos los eventos de la **Hackers Week 11 (del 10 al 14 de marzo)**.
@@ -120,4 +120,3 @@ Podréis disfrutar de ponencias, talleres, actividades y torneos de la semana qu
 {{< button href="https://www.eventbrite.com/cc/hackers-week-11-4090923" target="_self" >}}
 Colección de eventos de Eventbrite
 {{< /button >}}
-

@@ -45,27 +45,28 @@
   weight = 30
 
 [[main]]
+  name = "2024-25"
+  pageRef = "events/2024-25"
+  parent = "Histórico"
+  weight = 31
+
+[[main]]
   name = "2023-24"
   pageRef = "events/2023-24"
   parent = "Histórico"
-  weight = 30
+  weight = 32
 
 [[main]]
   name = "2022-23"
   pageRef = "events/2022-23"
   parent = "Histórico"
-  weight = 31
+  weight = 33
 
 [[main]]
   name = "2021-22"
   pageRef = "events/2021-22/hackers-week-8/"
   parent = "Histórico"
-  weight = 32
-
-[[main]]
-  name = "Hackers Week 11"
-  pageRef = "announcements/hackers-week-11/"
-  weight = 40
+  weight = 34
 
 #[[subnavigation]]
 #  name = "Información"
