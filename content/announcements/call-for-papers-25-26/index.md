@@ -25,7 +25,7 @@ Formulario Propuestas
 {{< /button >}}
 
 ## Colaboración / Sponsors
-{{< button href="https://ceetsii.uma.es/limesurvey/index.php?r=survey/index&sid=721516&lang=es" target="_self" >}}
+{{< button href="https://ceetsii.uma.es/limesurvey/index.php?r=survey/index&sid=985564&lang=es" target="_self" >}}
 Formulario Patrocinios
 {{< /button >}}
 
