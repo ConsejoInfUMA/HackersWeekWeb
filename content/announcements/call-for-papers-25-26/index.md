@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers 2025-26"
-draft: true
+draft: false
 date: 2025-10-01T09:30:00+02:00
 description: "Call for Papers para ponentes y conductores de talleres para los eventos de la Hackers Week"
 tags: ["c4p", "announcement"]
