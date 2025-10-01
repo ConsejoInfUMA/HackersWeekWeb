@@ -1,7 +1,7 @@
 ---
-title: "Call for Papers 2024/25"
+title: "Call for Papers 2025-26"
 draft: true
-date: 2024-11-17T17:03:00+02:00
+date: 2025-10-01T09:30:00+02:00
 description: "Call for Papers para ponentes y conductores de talleres para los eventos de la Hackers Week"
 tags: ["c4p", "announcement"]
 ---
@@ -25,6 +25,8 @@ Formulario Propuestas
 {{< /button >}}
 
 ## Colaboración / Sponsors
-En construcción
+{{< button href="https://ceetsii.uma.es/limesurvey/index.php?r=survey/index&sid=721516&lang=es" target="_self" >}}
+Formulario Patrocinios
+{{< /button >}}
 
 Puedes consultar nuestro dossier de patrocinadores [aquí](https://ceetsii.uma.es/nextcloud/s/e2aCNDAkdqHm7cE)
